@@ -1,6 +1,10 @@
 # SAVE THE CHILDREN
 
+## Con este proyecto buscamos optimizar la conversión de visitantes a donadores para aprovechar al máximo la alianza de Google con la Institución Save the Children
+
 ![vistasave](https://user-images.githubusercontent.com/32865535/38583367-67165394-3cd8-11e8-80c1-3d993b3afc7d.jpg)
+
+## Empresa para la que se realizó el proyecto: Save the Children
 
 ## **Empatizar**
 
